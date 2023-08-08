@@ -1,0 +1,62 @@
+Case Study 1:
+	Create three tables with three different structures and place the information on visuals [table, bar chart, pie chart]
+	
+	EMP:		Dept:			Address:
+	Eid,Enm,DID	Deptid, Dname,Dadd	Addressid, Location
+	1,vinay, 10	10, IT,HYD		HYD, Banjara-hills, Hyderabad
+	2,madhu,20	20, HR,Blore		Che, T-Nagar, Chennai
+	3,kishore,30	30, Sales, Che
+	4,rajesh, 20
+	5,mukesh, 10
+	6,kumar,20
+	7,rajani,30
+	8,mahesh,20
+	9,murali, 40
+	
+	Table: Column by column data display visual.
+
+		I want to show	--Eid, Ename, Did, Dname, Location
+	Bar chart:
+		DID wise number of employees joined
+	Pie Chart:
+		AddressID usage percentage for the employees
+
+Case Study 2:
+
+	Get the data from a Csv file with headers and footers, generate a report for the below situation.
+
+	Total Sales in a card visual
+	Avg sales in a card visual-for HYD and MUM locations
+	
+	Display Location wise total sales, max sales, min sales without headings and totals sections
+
+	Display Product wise location wise sales comparison and distribution
+
+	Display product wise location wise total sales and avg sales hierarchical presetation
+
+	Provide filter on productname with user interaction
+
+Case Study 3:
+
+	Get data from family expences excel and perform the below operations
+
+	a) Area wise amount spending comparison
+	b) Location wise average amount spending 	
+	c) Area  wise location wise and reason wise amount spending
+	d) Last year total amount based on year slicing
+	e) Last month total amount based on month slicing
+	
+
+Case study 4:
+	From Vinay Tech business data generate a yearly and monthly report with multiple pages, navigate from yearly
+	page to monthly page.
+1 day
+
+Case study 5:
+	From Vinay Tech business data generate a yearly report and monthly report with various settings, navigate from yearly
+	report  to monthly report. Implement RLS, Data Rrefresh, Report Scheduled Sharing, Testing of report and Deployment.
+
+5 days
+
+
+

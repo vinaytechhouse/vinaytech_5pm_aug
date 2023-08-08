@@ -1,7 +1,10 @@
-Case Study 1:
+Case Study 1: [First Case Study to explain how to create tables]
+
 	Create three tables with three different structures and place the information on visuals [table, bar chart, pie chart]
+
 	
 	EMP:		Dept:			Address:
+
 	Eid,Enm,DID	Deptid, Dname,Dadd	Addressid, Location
 	1,vinay, 10	10, IT,HYD		HYD, Banjara-hills, Hyderabad
 	2,madhu,20	20, HR,Blore		Che, T-Nagar, Chennai
